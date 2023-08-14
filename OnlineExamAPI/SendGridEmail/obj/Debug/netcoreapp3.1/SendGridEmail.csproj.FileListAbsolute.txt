@@ -1,0 +1,12 @@
+C:\Ariqt\Projects\Tools\OnlineExam\SendGridEmail\bin\Debug\netcoreapp3.1\SendGridEmail.deps.json
+C:\Ariqt\Projects\Tools\OnlineExam\SendGridEmail\bin\Debug\netcoreapp3.1\SendGridEmail.dll
+C:\Ariqt\Projects\Tools\OnlineExam\SendGridEmail\bin\Debug\netcoreapp3.1\SendGridEmail.pdb
+C:\Ariqt\Projects\Tools\OnlineExam\SendGridEmail\obj\Debug\netcoreapp3.1\SendGridEmail.csprojAssemblyReference.cache
+C:\Ariqt\Projects\Tools\OnlineExam\SendGridEmail\obj\Debug\netcoreapp3.1\SendGridEmail.AssemblyInfoInputs.cache
+C:\Ariqt\Projects\Tools\OnlineExam\SendGridEmail\obj\Debug\netcoreapp3.1\SendGridEmail.AssemblyInfo.cs
+C:\Ariqt\Projects\Tools\OnlineExam\SendGridEmail\obj\Debug\netcoreapp3.1\SendGridEmail.csproj.CoreCompileInputs.cache
+C:\Ariqt\Projects\Tools\OnlineExam\SendGridEmail\obj\Debug\netcoreapp3.1\SendGridEmail.dll
+C:\Ariqt\Projects\Tools\OnlineExam\SendGridEmail\obj\Debug\netcoreapp3.1\SendGridEmail.pdb
+C:\Ariqt\Projects\Tools\OnlineExam\SendGridEmail\bin\Debug\netcoreapp3.1\OnlineExam.Sql.Models.dll
+C:\Ariqt\Projects\Tools\OnlineExam\SendGridEmail\bin\Debug\netcoreapp3.1\OnlineExam.Sql.Models.pdb
+C:\Ariqt\Projects\Tools\OnlineExam\SendGridEmail\obj\Debug\netcoreapp3.1\SendGridEmail.csproj.CopyComplete

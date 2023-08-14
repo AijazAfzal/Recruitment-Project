@@ -1,0 +1,74 @@
+trigger:
+    batch: true
+    branches:
+        include:
+        - main
+        - develop
+    paths:
+        include: 
+        - "./OnlineExamAPI/*"
+
+pool:
+  name: 'Azure Pipelines'
+
+
+variables:
+  isMain: $[eq(variables['Build.SourceBranch'], 'refs/heads/main')] #used
+  isDev: $[eq(variables['Build.SourceBranch'], 'refs/heads/develop')] #not used
+  test: "Never Used"
+  BUILDOUTPUTFOLDER: "Never Used"
+  SOURCEFOLDER: "Never Used"
+  VMIMAGE: "windows-latest"
+  appType: webApp
+
+stages:
+- template: templates/stage_level_templates/test_build_stage_template.yml # stage template to test, build and push
+  parameters:
+    projectFolder: OnlineExamAPI/OnlineExamAPI/OnlineExamAPI.csproj #${{variables.projectFolder}}
+    buildOutputFolder: $(BUILDOUTPUTFOLDER) #${{variables.buildOutputFolder}}
+    sourceFolder: $(SOURCEFOLDER) #${{variables.sourceFolder}}
+    vmImageName: "windows-latest"
+    
+
+- template: templates/stage_level_templates/az_deployment_stage_template.yml # stage template for azure resource deployment to Develop
+  parameters:
+    vmImageName : $(VMIMAGE) #${{variables.vmImage}}
+    azureSubscription : "Microsoft Partner Network (98aca558-9ebc-47af-a63f-e208bec4969c)"
+    resourceGroup : "Ariqt-Recruitment-dev"
+    bicepFilePath : "OnlineExamAPI/Pipeline/Infrastructure/main.bicep"
+    parameterFilePath : "OnlineExamAPI/Pipeline/Infrastructure/main.parameters.dev.json"
+    jobName : "resourcedeployment"
+    jobDescription : "deployemnt of resources"
+    scriptType : "bash"
+    environment: 'dev'
+    deploy: true
+    
+
+- template: templates/stage_level_templates/app_deployment_stage_template.yml #stage template for application deployment
+  parameters:
+    serviceConnection: 'recruitment-portal-dev'
+    subscriptionId: 'dev'
+    environment: 'dev'
+    appType: $(APPTYPE)
+
+- template: templates/stage_level_templates/az_deployment_stage_template.yml # stage template for azure resource deployment to Develop
+  parameters:
+    vmImageName : $(VMIMAGE) #${{variables.vmImage}}
+    azureSubscription : "Microsoft Partner Network (98aca558-9ebc-47af-a63f-e208bec4969c)"
+    resourceGroup : "Ariqt-Recruitment-dev"
+    bicepFilePath : "OnlineExamAPI/Pipeline/Infrastructure/main.bicep"
+    parameterFilePath : "OnlineExamAPI/Pipeline/Infrastructure/main.parameters.prod.json"
+    jobName : "resourcedeployment"
+    jobDescription : "deployemnt of resources in prd"
+    scriptType : "bash"
+    environment: 'prd'
+    deploy: true
+    condition: "and(succeeded(), eq(variables.isMain, 'true'))"
+
+- template: templates/stage_level_templates/app_deployment_stage_template.yml #stage template for application deployment
+  parameters:
+    serviceConnection: 'Microsoft Partner Network (98aca558-9ebc-47af-a63f-e208bec4969c)'
+    subscriptionId: 'prd'
+    environment: 'prd'
+    appType: $(APPTYPE)
+    condition: "and(succeeded(), eq(variables.isMain, 'true'))" 

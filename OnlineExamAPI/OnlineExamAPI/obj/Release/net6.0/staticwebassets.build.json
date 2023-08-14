@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "md6oATxieEnmacqDeAh48ffn2DzZQCgXHZ8PPvrr7E0=",
+  "Source": "OnlineExamApi",
+  "BasePath": "_content/OnlineExamApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OnlineExamApi\\wwwroot",
+      "Source": "OnlineExamApi",
+      "ContentRoot": "D:\\Projects\\Recruitment\\ExamPortal\\OnlineExam\\OnlineExamAPI\\wwwroot\\",
+      "BasePath": "_content/OnlineExamApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Projects\\Recruitment\\ExamPortal\\OnlineExam\\OnlineExamAPI\\wwwroot\\EmailTemplates\\CandidateExam.html",
+      "SourceId": "OnlineExamApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\Recruitment\\ExamPortal\\OnlineExam\\OnlineExamAPI\\wwwroot\\",
+      "BasePath": "_content/OnlineExamApi",
+      "RelativePath": "EmailTemplates/CandidateExam.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\EmailTemplates\\CandidateExam.html"
+    },
+    {
+      "Identity": "D:\\Projects\\Recruitment\\ExamPortal\\OnlineExam\\OnlineExamAPI\\wwwroot\\EmailTemplates\\InterviewScheduletemplate.html",
+      "SourceId": "OnlineExamApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\Recruitment\\ExamPortal\\OnlineExam\\OnlineExamAPI\\wwwroot\\",
+      "BasePath": "_content/OnlineExamApi",
+      "RelativePath": "EmailTemplates/InterviewScheduletemplate.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\EmailTemplates\\InterviewScheduletemplate.html"
+    },
+    {
+      "Identity": "D:\\Projects\\Recruitment\\ExamPortal\\OnlineExam\\OnlineExamAPI\\wwwroot\\EmailTemplates\\RueturnMailToHr.html",
+      "SourceId": "OnlineExamApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\Recruitment\\ExamPortal\\OnlineExam\\OnlineExamAPI\\wwwroot\\",
+      "BasePath": "_content/OnlineExamApi",
+      "RelativePath": "EmailTemplates/RueturnMailToHr.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\EmailTemplates\\RueturnMailToHr.html"
+    }
+  ]
+}

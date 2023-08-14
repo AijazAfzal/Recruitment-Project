@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\Recruitment\\ExamPortal\\OnlineExam\\OnlineExamFormApi\\wwwroot\\EmailTemplates\\CandidateExam.html",
+      "PackagePath": "staticwebassets\\EmailTemplates\\CandidateExam.html"
+    },
+    {
+      "Id": "D:\\Projects\\Recruitment\\ExamPortal\\OnlineExam\\OnlineExamFormApi\\wwwroot\\EmailTemplates\\InterviewEvaluation.html",
+      "PackagePath": "staticwebassets\\EmailTemplates\\InterviewEvaluation.html"
+    },
+    {
+      "Id": "D:\\Projects\\Recruitment\\ExamPortal\\OnlineExam\\OnlineExamFormApi\\wwwroot\\EmailTemplates\\InterviewScheduletemplate.html",
+      "PackagePath": "staticwebassets\\EmailTemplates\\InterviewScheduletemplate.html"
+    },
+    {
+      "Id": "D:\\Projects\\Recruitment\\ExamPortal\\OnlineExam\\OnlineExamFormApi\\wwwroot\\EmailTemplates\\RueturnMailToHr.html",
+      "PackagePath": "staticwebassets\\EmailTemplates\\RueturnMailToHr.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.OnlineExamFormApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.OnlineExamFormApi.props",
+      "PackagePath": "build\\OnlineExamFormApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineExamFormApi.props",
+      "PackagePath": "buildMultiTargeting\\OnlineExamFormApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.OnlineExamFormApi.props",
+      "PackagePath": "buildTransitive\\OnlineExamFormApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

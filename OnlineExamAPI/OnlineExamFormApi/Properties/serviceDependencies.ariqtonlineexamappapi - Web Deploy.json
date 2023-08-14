@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/ariqtinternaleaxam/databases/onlineexam",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionString:ExamDB",
+      "dynamicId": null
+    }
+  }
+}

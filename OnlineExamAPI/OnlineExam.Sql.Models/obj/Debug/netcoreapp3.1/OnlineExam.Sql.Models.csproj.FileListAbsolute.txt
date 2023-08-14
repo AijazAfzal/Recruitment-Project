@@ -1,0 +1,17 @@
+C:\Ariqt\Projects\Tools\OnlineExam.Sql.Models\bin\Debug\netcoreapp3.1\OnlineExam.Sql.Models.deps.json
+C:\Ariqt\Projects\Tools\OnlineExam.Sql.Models\bin\Debug\netcoreapp3.1\OnlineExam.Sql.Models.dll
+C:\Ariqt\Projects\Tools\OnlineExam.Sql.Models\bin\Debug\netcoreapp3.1\OnlineExam.Sql.Models.pdb
+C:\Ariqt\Projects\Tools\OnlineExam.Sql.Models\obj\Debug\netcoreapp3.1\OnlineExam.Sql.Models.AssemblyInfoInputs.cache
+C:\Ariqt\Projects\Tools\OnlineExam.Sql.Models\obj\Debug\netcoreapp3.1\OnlineExam.Sql.Models.AssemblyInfo.cs
+C:\Ariqt\Projects\Tools\OnlineExam.Sql.Models\obj\Debug\netcoreapp3.1\OnlineExam.Sql.Models.csproj.CoreCompileInputs.cache
+C:\Ariqt\Projects\Tools\OnlineExam.Sql.Models\obj\Debug\netcoreapp3.1\OnlineExam.Sql.Models.dll
+C:\Ariqt\Projects\Tools\OnlineExam.Sql.Models\obj\Debug\netcoreapp3.1\OnlineExam.Sql.Models.pdb
+C:\Ariqt\Projects\Tools\OnlineExam\OnlineExam.Sql.Models\bin\Debug\netcoreapp3.1\OnlineExam.Sql.Models.deps.json
+C:\Ariqt\Projects\Tools\OnlineExam\OnlineExam.Sql.Models\bin\Debug\netcoreapp3.1\OnlineExam.Sql.Models.dll
+C:\Ariqt\Projects\Tools\OnlineExam\OnlineExam.Sql.Models\bin\Debug\netcoreapp3.1\OnlineExam.Sql.Models.pdb
+C:\Ariqt\Projects\Tools\OnlineExam\OnlineExam.Sql.Models\obj\Debug\netcoreapp3.1\OnlineExam.Sql.Models.AssemblyInfoInputs.cache
+C:\Ariqt\Projects\Tools\OnlineExam\OnlineExam.Sql.Models\obj\Debug\netcoreapp3.1\OnlineExam.Sql.Models.AssemblyInfo.cs
+C:\Ariqt\Projects\Tools\OnlineExam\OnlineExam.Sql.Models\obj\Debug\netcoreapp3.1\OnlineExam.Sql.Models.csproj.CoreCompileInputs.cache
+C:\Ariqt\Projects\Tools\OnlineExam\OnlineExam.Sql.Models\obj\Debug\netcoreapp3.1\OnlineExam.Sql.Models.dll
+C:\Ariqt\Projects\Tools\OnlineExam\OnlineExam.Sql.Models\obj\Debug\netcoreapp3.1\OnlineExam.Sql.Models.pdb
+C:\Ariqt\Projects\Tools\OnlineExam\OnlineExam.Sql.Models\obj\Debug\netcoreapp3.1\OnlineExam.Sql.Models.csprojAssemblyReference.cache

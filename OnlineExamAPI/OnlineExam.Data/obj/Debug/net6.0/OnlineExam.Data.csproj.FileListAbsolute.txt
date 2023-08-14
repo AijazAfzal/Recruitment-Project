@@ -1,0 +1,17 @@
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Data\bin\Debug\net6.0\OnlineExam.Data.deps.json
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Data\bin\Debug\net6.0\OnlineExam.Data.runtimeconfig.json
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Data\bin\Debug\net6.0\OnlineExam.Data.dll
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Data\bin\Debug\net6.0\OnlineExam.Data.pdb
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Data\bin\Debug\net6.0\OnlineExam.Sql.Models.dll
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Data\bin\Debug\net6.0\OnlineExam.Sql.Models.pdb
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Data\obj\Debug\net6.0\OnlineExam.Data.csproj.AssemblyReference.cache
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Data\obj\Debug\net6.0\OnlineExam.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Data\obj\Debug\net6.0\OnlineExam.Data.AssemblyInfoInputs.cache
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Data\obj\Debug\net6.0\OnlineExam.Data.AssemblyInfo.cs
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Data\obj\Debug\net6.0\OnlineExam.Data.csproj.CoreCompileInputs.cache
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Data\obj\Debug\net6.0\OnlineExam.Data.csproj.CopyComplete
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Data\obj\Debug\net6.0\OnlineExam.Data.dll
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Data\obj\Debug\net6.0\refint\OnlineExam.Data.dll
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Data\obj\Debug\net6.0\OnlineExam.Data.pdb
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Data\obj\Debug\net6.0\OnlineExam.Data.genruntimeconfig.cache
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Data\obj\Debug\net6.0\ref\OnlineExam.Data.dll

@@ -1,0 +1,17 @@
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Business\bin\Debug\net6.0\OnlineExam.Business.deps.json
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Business\bin\Debug\net6.0\OnlineExam.Business.dll
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Business\bin\Debug\net6.0\OnlineExam.Business.pdb
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Business\bin\Debug\net6.0\OnlineExam.Data.dll
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Business\bin\Debug\net6.0\OnlineExam.Sql.Models.dll
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Business\bin\Debug\net6.0\OnlineExam.Data.pdb
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Business\bin\Debug\net6.0\OnlineExam.Sql.Models.pdb
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Business\obj\Debug\net6.0\OnlineExam.Business.csproj.AssemblyReference.cache
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Business\obj\Debug\net6.0\OnlineExam.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Business\obj\Debug\net6.0\OnlineExam.Business.AssemblyInfoInputs.cache
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Business\obj\Debug\net6.0\OnlineExam.Business.AssemblyInfo.cs
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Business\obj\Debug\net6.0\OnlineExam.Business.csproj.CoreCompileInputs.cache
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Business\obj\Debug\net6.0\OnlineExam.Business.csproj.CopyComplete
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Business\obj\Debug\net6.0\OnlineExam.Business.dll
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Business\obj\Debug\net6.0\refint\OnlineExam.Business.dll
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Business\obj\Debug\net6.0\OnlineExam.Business.pdb
+D:\Projects\Recruitment\ExamPortal\OnlineExam\OnlineExam.Business\obj\Debug\net6.0\ref\OnlineExam.Business.dll

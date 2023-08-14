@@ -1,0 +1,15 @@
+D:\Projects\Recruitment\ExamPortal\OnlineExam\SendGridEmail\bin\Debug\net6.0\SendGridEmail.deps.json
+D:\Projects\Recruitment\ExamPortal\OnlineExam\SendGridEmail\bin\Debug\net6.0\SendGridEmail.dll
+D:\Projects\Recruitment\ExamPortal\OnlineExam\SendGridEmail\bin\Debug\net6.0\SendGridEmail.pdb
+D:\Projects\Recruitment\ExamPortal\OnlineExam\SendGridEmail\bin\Debug\net6.0\OnlineExam.Sql.Models.dll
+D:\Projects\Recruitment\ExamPortal\OnlineExam\SendGridEmail\bin\Debug\net6.0\OnlineExam.Sql.Models.pdb
+D:\Projects\Recruitment\ExamPortal\OnlineExam\SendGridEmail\obj\Debug\net6.0\SendGridEmail.csproj.AssemblyReference.cache
+D:\Projects\Recruitment\ExamPortal\OnlineExam\SendGridEmail\obj\Debug\net6.0\SendGridEmail.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Recruitment\ExamPortal\OnlineExam\SendGridEmail\obj\Debug\net6.0\SendGridEmail.AssemblyInfoInputs.cache
+D:\Projects\Recruitment\ExamPortal\OnlineExam\SendGridEmail\obj\Debug\net6.0\SendGridEmail.AssemblyInfo.cs
+D:\Projects\Recruitment\ExamPortal\OnlineExam\SendGridEmail\obj\Debug\net6.0\SendGridEmail.csproj.CoreCompileInputs.cache
+D:\Projects\Recruitment\ExamPortal\OnlineExam\SendGridEmail\obj\Debug\net6.0\SendGridEmail.csproj.CopyComplete
+D:\Projects\Recruitment\ExamPortal\OnlineExam\SendGridEmail\obj\Debug\net6.0\SendGridEmail.dll
+D:\Projects\Recruitment\ExamPortal\OnlineExam\SendGridEmail\obj\Debug\net6.0\refint\SendGridEmail.dll
+D:\Projects\Recruitment\ExamPortal\OnlineExam\SendGridEmail\obj\Debug\net6.0\SendGridEmail.pdb
+D:\Projects\Recruitment\ExamPortal\OnlineExam\SendGridEmail\obj\Debug\net6.0\ref\SendGridEmail.dll
